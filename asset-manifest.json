@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iNotebook/static/css/main.a5b2170c.css",
-    "main.js": "/iNotebook/static/js/main.df9d1b04.js",
+    "main.css": "/iNotebook/static/css/main.a6badb70.css",
+    "main.js": "/iNotebook/static/js/main.8f5a9ce6.js",
     "static/js/453.d724e79d.chunk.js": "/iNotebook/static/js/453.d724e79d.chunk.js",
     "index.html": "/iNotebook/index.html",
-    "main.a5b2170c.css.map": "/iNotebook/static/css/main.a5b2170c.css.map",
-    "main.df9d1b04.js.map": "/iNotebook/static/js/main.df9d1b04.js.map",
+    "main.a6badb70.css.map": "/iNotebook/static/css/main.a6badb70.css.map",
+    "main.8f5a9ce6.js.map": "/iNotebook/static/js/main.8f5a9ce6.js.map",
     "453.d724e79d.chunk.js.map": "/iNotebook/static/js/453.d724e79d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5b2170c.css",
-    "static/js/main.df9d1b04.js"
+    "static/css/main.a6badb70.css",
+    "static/js/main.8f5a9ce6.js"
   ]
 }
