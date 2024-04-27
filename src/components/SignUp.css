@@ -1,0 +1,9 @@
+@media(max-width:500px){
+    .box1{
+        padding: 2rem !important;
+        margin: 0 !important;
+    }
+    button{
+        font-size: 14px !important;
+    }
+}

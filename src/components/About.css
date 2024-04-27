@@ -1,0 +1,80 @@
+p{
+    font-size: larger;
+}
+@media (max-width:781px){
+    img{
+        width: 28rem;
+    }
+    h3{
+        margin: 1.5rem !important;
+    }
+    .box{
+        margin: 2rem !important;
+    }
+    .features p{
+        margin: 2rem !important;
+    }
+    .join{
+        padding: 0 !important;
+    }
+    input{
+        width: 90px;
+    }
+    .input-section>h3{
+        font-size: 1rem !important;
+    }
+    .input{
+        font-size: 0.6rem !important;
+    }
+    button{
+        font-size: 0.4rem !important;
+        padding: 8px !important;
+    }
+}
+@media (max-width:551px){
+    img{
+        width: 20rem;
+    }
+}
+@media (max-width:480px){
+    img{
+        width: 16rem;
+    }
+    h1{
+        margin-bottom: 1.5rem !important;
+    }
+    h3{
+        margin: 1.5rem !important;
+        font-size: medium;
+    }
+    .features p{
+        margin: 1rem !important;
+    }
+}
+@media (max-width:400px){
+    img{
+        width: 15rem;
+    }
+    .box{
+        padding: 0rem !important;
+    }
+    .features p{
+        margin: 0rem !important;
+    }
+    .features h2{
+        margin-bottom: 20px !important;
+    }
+    .join{
+        margin: 0 !important;
+        margin-bottom: 30px !important;
+        padding-bottom: 15px !important;
+    }
+    .input{
+        font-size: 0.7rem !important;
+    }
+    .input>button{
+        font-size: 0.65rem !important;
+        padding: 6px !important;
+        margin-bottom: 0 !important;
+    }
+}
